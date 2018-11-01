@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=VCCD Pin=P1-1
+Removed Pin From Net: NetName=VCCBAT Pin=P1-2
+Removed Pin From Net: NetName=MISO Pin=P4-1
+Removed Pin From Net: NetName=VCC3.3 Pin=P4-2
+Removed Pin From Net: NetName=SCK Pin=P4-3
+Removed Pin From Net: NetName=MOSI Pin=P4-4
+Removed Pin From Net: NetName=D/C Pin=P4-5
+Removed Pin From Net: NetName=RST Pin=P4-6
+Removed Pin From Net: NetName=CS Pin=P4-7
+Added Component: Designator=P2(拨动开关（2mm）)
+Added Component: Designator=P5(HDR1X9)
+Added Pin To Net: NetName=VCCBAT Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=VCCD Pin=P1-1
+Added Pin To Net: NetName=VCCBAT Pin=P1-2
+Added Pin To Net: NetName=VCC3.3 Pin=P4-1
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=RESET Pin=P4-3
+Added Pin To Net: NetName=DS-TX Pin=P4-6
+Added Pin To Net: NetName=DS-RX Pin=P4-7
+Added Pin To Net: NetName=MISO Pin=P4-1
+Added Pin To Net: NetName=VCC3.3 Pin=P4-2
+Added Pin To Net: NetName=SCK Pin=P4-3
+Added Pin To Net: NetName=MOSI Pin=P4-4
+Added Pin To Net: NetName=D/C Pin=P4-5
+Added Pin To Net: NetName=RST Pin=P4-6
+Added Pin To Net: NetName=CS Pin=P4-7
+Added Pin To Net: NetName=PC13 Pin=LS1-1
+Added Pin To Net: NetName=PC13 Pin=U1-4
+Added Net: Name=PC13
+Added Member To Class: ClassName=雾霾检测器 Member=Component P2 电源开关
+Added Member To Class: ClassName=雾霾检测器 Member=Component P5 LCD

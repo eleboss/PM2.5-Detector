@@ -1,0 +1,9 @@
+Added Component: Designator=D1(0805-led)
+Added Component: Designator=R1(0805-SMALL)
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=NetD1_1 Pin=R1-1
+Added Pin To Net: NetName=VCC5 Pin=R1-2
+Added Member To Class: ClassName=Îíö²¼ì²âÆ÷ Member=Component D1 LED0
+Added Member To Class: ClassName=Îíö²¼ì²âÆ÷ Member=Component R1 1K
+Added Room: Name=Îíö²¼ì²âÆ÷

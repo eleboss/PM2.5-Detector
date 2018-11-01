@@ -1,0 +1,9 @@
+Added Component: Designator=U2(Smart_RF_2541)
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=P22 Pin=U2-2
+Added Pin To Net: NetName=P21 Pin=U2-11
+Added Pin To Net: NetName=VCC3.3 Pin=U2-12
+Added Pin To Net: NetName=RESET Pin=U2-13
+Added Pin To Net: NetName=STM32RX-2541TX Pin=U2-15
+Added Pin To Net: NetName=STM32TX-2541RX Pin=U2-23
+Added Member To Class: ClassName=À¶ÑÀÃÅ½û Member=Component U2 CC2541

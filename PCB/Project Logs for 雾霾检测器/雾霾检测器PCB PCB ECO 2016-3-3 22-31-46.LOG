@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VCC5 Pin=P6-1
+Removed Pin From Net: NetName=VCC3.3 Pin=P7-1
+Change Component Comment : Designator=P6 Old Comment=MQ-2接口 New Comment=雾霾传感器接口
+Change Component Comment : Designator=P7 Old Comment=雾霾传感器接口 New Comment=MQ5
+Added Pin To Net: NetName=VCC3.3 Pin=P6-1
+Added Pin To Net: NetName=VCC5 Pin=P7-1

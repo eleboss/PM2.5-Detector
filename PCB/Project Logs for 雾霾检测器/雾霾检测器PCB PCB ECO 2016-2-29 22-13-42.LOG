@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=RST Pin=U1-9
+Removed Pin From Net: NetName=CS Pin=U1-12
+Removed Pin From Net: NetName=D/C Pin=U1-13
+Removed Pin From Net: NetName=RST Pin=U1-14
+Removed Pin From Net: NetName=RESET Pin=U1-15
+Removed Pin From Net: NetName=SCK Pin=U1-22
+Removed Pin From Net: NetName=MISO Pin=U1-23
+Removed Pin From Net: NetName=MOSI Pin=U1-24
+Added Pin To Net: NetName=RESET Pin=U1-12
+Added Pin To Net: NetName=SCK Pin=U1-13
+Added Pin To Net: NetName=MISO Pin=U1-14
+Added Pin To Net: NetName=MOSI Pin=U1-15
+Added Pin To Net: NetName=RST Pin=U1-18
+Added Pin To Net: NetName=D/C Pin=U1-34
+Added Pin To Net: NetName=CS Pin=U1-35

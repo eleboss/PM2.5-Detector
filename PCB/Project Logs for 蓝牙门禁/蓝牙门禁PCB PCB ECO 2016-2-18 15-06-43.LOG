@@ -1,0 +1,112 @@
+Added Component: Designator=D1(0805-led)
+Added Component: Designator=LS1(BUZZER-12MM)
+Added Component: Designator=P1(HDR1X4)
+Added Component: Designator=P2(DC12V)
+Added Component: Designator=P3(接线端子-0.5)
+Added Component: Designator=P4(HDR1X3)
+Added Component: Designator=P5(7号电池盒-4.5CM)
+Added Component: Designator=P6(HDR1X4)
+Added Component: Designator=P7(HDR1X4)
+Added Component: Designator=P8(HDR1X4)
+Added Component: Designator=R1(0805-SMALL)
+Added Component: Designator=R2(0805-SMALL)
+Added Component: Designator=R3(0805-SMALL)
+Added Component: Designator=U1(STM32_Smart)
+Added Component: Designator=U2(Smart_RF_2541)
+Added Component: Designator=U3(HDR1X8)
+Added Component: Designator=U4(TP4065_模块)
+Added Pin To Net: NetName=ADC1 Pin=P7-3
+Added Pin To Net: NetName=ADC1 Pin=U1-16
+Added Net: Name=ADC1
+Added Pin To Net: NetName=ADC2 Pin=P8-3
+Added Pin To Net: NetName=ADC2 Pin=U1-17
+Added Net: Name=ADC2
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=LS1-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=GND Pin=P5-2
+Added Pin To Net: NetName=GND Pin=P6-4
+Added Pin To Net: NetName=GND Pin=P7-2
+Added Pin To Net: NetName=GND Pin=P8-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=U1-44
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U3-6
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Net: Name=GND
+Added Pin To Net: NetName=IRQ Pin=U3-5
+Added Net: Name=IRQ
+Added Pin To Net: NetName=MISO Pin=U1-23
+Added Pin To Net: NetName=MISO Pin=U3-4
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=U1-24
+Added Pin To Net: NetName=MOSI Pin=U3-3
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R1-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetP1_4 Pin=P1-4
+Added Pin To Net: NetName=NetP1_4 Pin=P3-1
+Added Pin To Net: NetName=NetP1_4 Pin=R1-1
+Added Net: Name=NetP1_4
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=R3-1
+Added Pin To Net: NetName=NetR2_2 Pin=U4-1
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=P21 Pin=P6-1
+Added Pin To Net: NetName=P21 Pin=P6-2
+Added Pin To Net: NetName=P21 Pin=U2-11
+Added Net: Name=P21
+Added Pin To Net: NetName=P22 Pin=U2-2
+Added Net: Name=P22
+Added Pin To Net: NetName=PB4 Pin=LS1-1
+Added Pin To Net: NetName=PB4 Pin=U1-32
+Added Net: Name=PB4
+Added Pin To Net: NetName=PB5 Pin=P1-2
+Added Pin To Net: NetName=PB5 Pin=U1-33
+Added Net: Name=PB5
+Added Pin To Net: NetName=PB8 Pin=P8-4
+Added Pin To Net: NetName=PB8 Pin=U1-36
+Added Net: Name=PB8
+Added Pin To Net: NetName=PB9 Pin=P7-4
+Added Pin To Net: NetName=PB9 Pin=U1-37
+Added Net: Name=PB9
+Added Pin To Net: NetName=RESET Pin=P6-3
+Added Pin To Net: NetName=RESET Pin=U2-13
+Added Net: Name=RESET
+Added Pin To Net: NetName=RST Pin=U1-9
+Added Pin To Net: NetName=RST Pin=U3-7
+Added Net: Name=RST
+Added Pin To Net: NetName=SCK Pin=U1-22
+Added Pin To Net: NetName=SCK Pin=U3-2
+Added Net: Name=SCK
+Added Pin To Net: NetName=SDA Pin=U1-8
+Added Pin To Net: NetName=SDA Pin=U3-1
+Added Net: Name=SDA
+Added Pin To Net: NetName=STM32RX-2541TX Pin=U1-27
+Added Pin To Net: NetName=STM32RX-2541TX Pin=U2-15
+Added Net: Name=STM32RX-2541TX
+Added Pin To Net: NetName=STM32TX-2541RX Pin=U1-26
+Added Pin To Net: NetName=STM32TX-2541RX Pin=U2-23
+Added Net: Name=STM32TX-2541RX
+Added Pin To Net: NetName=VCC3.3 Pin=U1-1
+Added Pin To Net: NetName=VCC3.3 Pin=U2-12
+Added Pin To Net: NetName=VCC3.3 Pin=U3-8
+Added Net: Name=VCC3.3
+Added Pin To Net: NetName=VCCBAT Pin=P5-1
+Added Pin To Net: NetName=VCCBAT Pin=P7-1
+Added Pin To Net: NetName=VCCBAT Pin=P8-1
+Added Pin To Net: NetName=VCCBAT Pin=U1-46
+Added Pin To Net: NetName=VCCBAT Pin=U4-4
+Added Net: Name=VCCBAT
+Added Pin To Net: NetName=VCC Pin=P1-1
+Added Pin To Net: NetName=VCC Pin=P2-1
+Added Pin To Net: NetName=VCC Pin=P4-1
+Added Pin To Net: NetName=VCC Pin=R2-1
+Added Net: Name=VCC
+Added Class: Name=蓝牙门禁

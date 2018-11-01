@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=R2-2
+Removed Member From Class: ClassName=蓝牙门禁 Member=R1
+Added Member To Class: ClassName=蓝牙门禁 Member=Component P1 电源开关
+Added Member To Class: ClassName=蓝牙门禁 Member=Component P4 LCD
+Added Member To Class: ClassName=蓝牙门禁 Member=Component P6 雾霾传感器接口
+Added Member To Class: ClassName=蓝牙门禁 Member=Component U3 TP4065

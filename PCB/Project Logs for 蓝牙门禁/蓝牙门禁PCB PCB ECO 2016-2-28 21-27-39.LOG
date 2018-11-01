@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Pin From Net: NetName=VCC Pin=P1-1
+Removed Pin From Net: NetName=PB5 Pin=P1-2
+Removed Pin From Net: NetName=GND Pin=P1-3
+Removed Pin From Net: NetName=VCC Pin=P2-1
+Removed Pin From Net: NetName=GND Pin=P2-2
+Removed Pin From Net: NetName=GND Pin=P2-3
+Removed Pin From Net: NetName=RESET Pin=U2-13
+Removed Pin From Net: NetName=SCK Pin=U3-2
+Removed Pin From Net: NetName=MOSI Pin=U3-3
+Removed Pin From Net: NetName=MISO Pin=U3-4
+Removed Pin From Net: NetName=GND Pin=U3-6
+Removed Pin From Net: NetName=RST Pin=U3-7
+Removed Pin From Net: NetName=VCC3.3 Pin=U3-8
+Removed Member From Class: ClassName=蓝牙门禁 Member=D1
+Removed Member From Class: ClassName=蓝牙门禁 Member=P7
+Removed Member From Class: ClassName=蓝牙门禁 Member=R3
+Removed Member From Class: ClassName=蓝牙门禁 Member=U4
+Change Component DesignItemId : Designator=P3 Old DesignItemId=Header 2H New DesignItemId=Header 7
+Change Component Footprint: Designator=P3 Old Footprint=接线端子-0.5 New Footprint=HDR1X7
+Change Component Comment : Designator=P3 Old Comment=接电磁锁 New Comment=DS-HCHO
+Change Component Designator: OldDesignator=P4 NewDesignator=P1
+Change Component Designator: OldDesignator=P5 NewDesignator=P2
+Change Component Designator: OldDesignator=P6 NewDesignator=P5
+Change Component Designator: OldDesignator=P7 NewDesignator=P6
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=U4 NewDesignator=U3
+Added Component: Designator=P4(HDR1X9)
+Added Pin To Net: NetName=VCC3.3 Pin=P3-1
+Added Pin To Net: NetName=RESET Pin=P3-3
+Added Pin To Net: NetName=MISO Pin=P4-1
+Added Pin To Net: NetName=VCC3.3 Pin=P4-2
+Added Pin To Net: NetName=SCK Pin=P4-3
+Added Pin To Net: NetName=MOSI Pin=P4-4
+Added Pin To Net: NetName=RST Pin=P4-6
+Added Pin To Net: NetName=GND Pin=P4-8
+Added Pin To Net: NetName=VCCBAT Pin=P4-9
+Added Pin To Net: NetName=RST Pin=U1-14
+Change Net Name : Old Net Name=NetR2_2 New Net Name=NetR1_2
+Added Pin To Net: NetName=CS Pin=P4-7
+Added Pin To Net: NetName=CS Pin=U1-12
+Added Net: Name=CS
+Added Pin To Net: NetName=D/C Pin=P4-5
+Added Pin To Net: NetName=D/C Pin=U1-13
+Added Net: Name=D/C
+Added Pin To Net: NetName=DS-RX Pin=P3-7
+Added Pin To Net: NetName=DS-RX Pin=U1-10
+Added Net: Name=DS-RX
+Added Pin To Net: NetName=DS-TX Pin=P3-6
+Added Pin To Net: NetName=DS-TX Pin=U1-11
+Added Net: Name=DS-TX
+Added Pin To Net: NetName=NC Pin=P3-4
+Added Pin To Net: NetName=NC Pin=P3-5
+Added Net: Name=NC

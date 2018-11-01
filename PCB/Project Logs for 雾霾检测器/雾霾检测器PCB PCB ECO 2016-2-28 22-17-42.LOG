@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VCCBAT Pin=P1-2
+Added Pin To Net: NetName=VCCBAT Pin=P1-1
+Change Net Name : Old Net Name=VCCBAT New Net Name=VCC5
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=VCCBAT Pin=P1-2
+Added Pin To Net: NetName=VCCBAT Pin=P2-1
+Added Pin To Net: NetName=VCCBAT Pin=U3-4
+Added Net: Name=VCCBAT
+Change Class Name : Old Net Name=À¶ÑÀÃÅ½û New Net Name=Îíö²¼ì²âÆ÷
